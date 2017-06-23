@@ -4,7 +4,7 @@
 
     <groupId>org.huke.demo.validator</groupId>
     <artifactId>hibernate-validator</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <properties>
         <spring.version>4.3.9.RELEASE</spring.version>
@@ -21,7 +21,7 @@
         <url>https://github.com/wusthuke/hibernate-validator.git</url>
         <connection>scm:git:https://github.com/wusthuke/hibernate-validator.git</connection>
         <developerConnection>scm:git:https://github.com/wusthuke/hibernate-validator.git</developerConnection>
-        <tag>TEST</tag>
+        <tag>hibernate-validator-1.2</tag>
     </scm>
 
     <dependencies>
