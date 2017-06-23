@@ -19,7 +19,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/wusthuke/hibernate-validator.git</connection>
-        <tag>hibernate-validator-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
