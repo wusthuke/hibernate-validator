@@ -21,6 +21,7 @@
 
     <scm>
         <connection>scm:git:https://github.com/wusthuke/hibernate-validator.git</connection>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
