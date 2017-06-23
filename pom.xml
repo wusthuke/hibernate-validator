@@ -149,4 +149,17 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>nexus</id>
+            <name>nexus-releases</name>
+            <url>http://repository.apitops.com/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>nexus-snapshots</name>
+            <url>http://repository.apitops.com/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
