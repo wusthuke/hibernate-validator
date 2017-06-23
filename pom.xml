@@ -18,9 +18,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/wusthuke/hibernate-validator.git</url>
-        <connection>scm:git:https://github.com/wusthuke/hibernate-validator.git</connection>
-        <developerConnection>scm:git:https://github.com/wusthuke/hibernate-validator.git</developerConnection>
+        <url>https://huke2906@codehub.tops001.com/huke2906/spring-cache.git</url>
+        <connection>scm:git:https://huke2906@codehub.tops001.com/huke2906/spring-cache.git</connection>
+        <developerConnection>scm:git:https://huke2906@codehub.tops001.com/huke2906/spring-cache.git</developerConnection>
         <tag>TEST</tag>
     </scm>
 
